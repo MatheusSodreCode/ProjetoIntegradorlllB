@@ -1,2 +1,2 @@
-# Doctello
-Doctello : is medical website designed by me to help hospitals and it is also beneficial for different patient to classify their respective disease and their concern doctors.As It is having a special System Checker option which is very beneficial for new patient.
+# MedSUS
+MedSUS nasceu no Projeto Integrador lllB da Faculdade (UCPel) aonde foi designado para nosso grupo realizar uma ajuda para os médicos sobre Eletroterapia. A ideia inicial é criar esse "minimenu" também para pessoas normais, saberem qual melhor procedimento se encaixa para você!
